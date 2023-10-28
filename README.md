@@ -1,4 +1,4 @@
- ###  Medical Image Classification using Vision Transformer### 
+ ###  Medical Image Classification using Vision Transformer
 This project aims to classify benign tumors from medical images, specifically CT scans, using image processing techniques and the Vision Transformer model.
 
 ## Dataset
